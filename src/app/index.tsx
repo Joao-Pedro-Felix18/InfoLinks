@@ -6,7 +6,11 @@ export default function Index () {
        <View>
         <Text> eu AAAAAAAAAAAAAg </Text>
        <Text>João Pedro</Text>
+       <Text> Pokémon </Text>
+       <Text> Minecreft </Text>
        </View>
+    
 
+    
     );
 }
